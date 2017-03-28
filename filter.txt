@@ -425,7 +425,6 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
-soft98.ir##.list-post
 soft98.ir##.soft98-ad
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
