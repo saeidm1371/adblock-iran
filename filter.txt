@@ -655,7 +655,7 @@ zima.ir##.overlayDiv
 ||images.khabaronline.ir/system/menus/*/*
 ||img.bisms.ir//2016/10/426023421_5668.jpg
 ||img.bisms.ir//2016/10/nose-up-1.jpg
-||img.soft98.ir/*.gif$image
+||soft98.ir/*.gif
 ||img7.ir/*.gif$image
 ||imovie-dl.org/upload/banner*$image
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
