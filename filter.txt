@@ -843,3 +843,6 @@ zima.ir##.overlayDiv
 ||yeknet.ir/sites/default/files/js/*
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
+||faz-music.com/*.gif
+||mytehranmusic.com/*.gif
+||www.stersong.top/*.gif
