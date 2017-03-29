@@ -425,7 +425,6 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
-soft98.ir##.list-post
 soft98.ir##.soft98-ad
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
@@ -655,7 +654,7 @@ zima.ir##.overlayDiv
 ||images.khabaronline.ir/system/menus/*/*
 ||img.bisms.ir//2016/10/426023421_5668.jpg
 ||img.bisms.ir//2016/10/nose-up-1.jpg
-||img.soft98.ir/*.gif$image
+||soft98.ir/*.gif
 ||img7.ir/*.gif$image
 ||imovie-dl.org/upload/banner*$image
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
